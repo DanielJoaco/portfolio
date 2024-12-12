@@ -450,6 +450,25 @@
   ],
   "sideProjects": [
     {
+      "name": "Seven Seas Showdowm",        
+      "preview": "https://youtu.be/yB9gIP2u-qE",     
+      "img": "https://github.com/DanielJoaco/The_seven_seas_showdown/blob/main/assets/images/Screenshot%202024-12-02%20025807.png",         
+      "description": "Videojuego inspirado en batalla naval, desarrollado en python, donde se añadio nuevos tipos de ataques, eventos aleatorios y un sistema de estamina y vida para diversificar las estrategias durante las batallas.", 
+      "technologies": [  
+        {
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",     
+          "alt": "Python"       
+        }
+      ],
+      "repository": [
+        {
+          "url": "https://github.com/DanielJoaco/andimons",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/github_dark.svg",
+          "alt": "Github"
+        }
+      ] 
+    },
+    {
       "name": "Andimons",        
       "preview": "https://danieljoaco.github.io/andimons/",     
       "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/andimons.jpg",         
@@ -586,7 +605,7 @@
           "alt": "React"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/8aef9a94c52416a922a176664e855d5040519976/src/assets/logos/nodejs.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/2ac67dd137c3606760157c86759f21af5b5c478b/src/assets/logos/nodejs.svg",
           "alt": "Node.js"
         },
         {
