@@ -452,7 +452,7 @@
     {
       "name": "Seven Seas Showdowm",        
       "preview": "https://youtu.be/yB9gIP2u-qE",     
-      "img": "https://github.com/DanielJoaco/The_seven_seas_showdown/blob/main/assets/images/Screenshot%202024-12-02%20025807.png",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/The_seven_seas_showdown/refs/heads/main/assets/images/Screenshot%202024-12-02%20025807.png",         
       "description": "Videojuego inspirado en batalla naval, desarrollado en python, donde se añadio nuevos tipos de ataques, eventos aleatorios y un sistema de estamina y vida para diversificar las estrategias durante las batallas.", 
       "technologies": [  
         {
