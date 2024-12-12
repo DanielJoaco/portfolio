@@ -1,314 +1,314 @@
 {
   "socialMedia": [
     {
-      "img": "https:t.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/linkedin.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/linkedin.svg",
       "text": "Linkedin",
       "type": "socialMedia",
       "category": null,
       "url": "https://www.linkedin.com/in/daniel-joaquin-orjuela-holguin-a55054303/",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/linkedin_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/linkedin_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/github.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/github.svg",
       "text": "GitHub",
       "type": "socialMedia",
       "category": "programming",
       "url": "https://github.com/DanielJoaco?tab=repositories",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/github_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/github_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
       "text": "Platzi",
       "type": "socialMedia",
       "category": "studies",
       "url": "https://platzi.com/p/danieljorjuela/",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/platzi_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/Instagram_light.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/Instagram_light.svg",
       "text": "Instagram",
       "type": "socialMedia",
       "category": null,
       "url": "https://instagram.com/DanielJoaco?tab=repositories",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public//assets/logos/Instagram_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/Instagram_dark.svg"
     }
   ],
   "hardSkillsDev": [
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/audition.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/audition.svg",
       "text": "Audition",
       "type": "hardSkills",
       "category": "edition",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/audition.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/audition.svg"
     },    
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/canva.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/canva.svg",
       "text": "Canva",
       "type": "hardSkills",
       "category": "edition",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/canva.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/canva.svg"
     },     
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/css.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/css.svg",
       "text": "Css",
       "type": "hardSkills",
       "category": "programming",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/css.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/css.svg"
     },     
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/git.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/git.svg",
       "text": "Git",
       "type": "hardSkills",
       "category": "version control",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/git.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/git.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/html5.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/html5.svg",
       "text": "Html5",
       "type": "hardSkills",
       "category": "programming",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/html5.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/html5.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/illustrator.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/illustrator.svg",
       "text": "Illustrator",
       "type": "hardSkills",
       "category": "edition",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/illustrator.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/illustrator.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/javascript.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/javascript.svg",
       "text": "Javascript",
       "type": "hardSkills",
       "category": "programming",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/javascript.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/javascript.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/office.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/office.svg",
       "text": "Suite office",
       "type": "hardSkills",
       "category": "office",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/office.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/office.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/photoshop.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/photoshop.svg",
       "text": "Photoshop",
       "type": "hardSkills",
       "category": "edition",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/photoshop.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/photoshop.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/premiere.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/premiere.svg",
       "text": "Premiere Pro",
       "type": "hardSkills",
       "category": "edition",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/premiere.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/premiere.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",
       "text": "Python",
       "type": "hardSkills",
       "category": "programming",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg"
     }, 
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/vscode.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/vscode.svg",
       "text": "Vsc",
       "type": "hardSkills",
       "category": "code editor",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/vscode.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/vscode.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/ubuntu.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/ubuntu.svg",
       "text": "Ubuntu",
       "type": "hardSkills",
       "category": "Linux",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/ubuntu.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/ubuntu.svg"
     }
   ],
   "hardSkillsChef":[
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/administration.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/administration.svg",
       "text": "Gerencia",
       "type": "hardSkills",
       "category": "administrative",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/administration_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/administration_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/pastry.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/pastry.svg",
       "text": "Pastelería",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/pastry_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/pastry_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/bakery.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/bakery.svg",
       "text": "Panadería",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/bakery_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/bakery_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/barismo.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/barismo.svg",
       "text": "Barismo",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/barismo_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/barismo_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/bartending.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/bartending.svg",
       "text": "Coctelería",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/bartending_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/bartending_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/chef.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/chef.svg",
       "text": "Chef operativo",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/chef_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/chef_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/chemistry.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/chemistry.svg",
       "text": "Químicos",
       "type": "hardSkills",
       "category": "scientist",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/chemistry_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/chemistry_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/grill.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/grill.svg",
       "text": "Parrilla",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/grill_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/grill_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/hotKitchen.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/hotKitchen.svg",
       "text": "Cocina caliente",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/hotKitchen_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/hotKitchen_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/physical.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/physical.svg",
       "text": "Físicos",
       "type": "hardSkills",
       "category": "scientist",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/physical_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/physical_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/pizza.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/pizza.svg",
       "text": "Pizzería",
       "type": "hardSkills",
       "category": "operational",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/pizza_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/pizza_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/recruiter.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/recruiter.svg",
       "text": "Recursos humanos",
       "type": "hardSkills",
       "category": "administrative",
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/hardSkillsChef/recruiter_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/hardSkillsChef/recruiter_dark.svg"
     }
   ],
   "softSkills": [
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/adaptive.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/adaptive.svg",
       "text": "Adaptacíon",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/adaptive_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/adaptive_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/decisive.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/decisive.svg",
       "text": "Resolutivo",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/decisive_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/decisive_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/honest.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/honest.svg",
       "text": "Honesto",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/honest_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/honest_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/justice.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/justice.svg",
       "text": "Justo",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/justice_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/justice_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/leadership.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/leadership.svg",
       "text": "Líder",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/leadership_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/leadership_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/loyalty.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/loyalty.svg",
       "text": "Leal",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/loyalty_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/loyalty_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/respect.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/respect.svg",
       "text": "Respetuoso",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/respect_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/respect_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/speech.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/speech.svg",
       "text": "Divulgador",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/speech_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/speech_dark.svg"
     },
     {
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/teamwork.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/teamwork.svg",
       "text": "Trabajo en equipo",
       "type": "softSkill",
       "category": null,
       "url": "",
-      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/softSkills/teamwork_dark.svg"
+      "imgDarkMode": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/softSkills/teamwork_dark.svg"
     }
   ],
   "certificates": [
@@ -316,8 +316,8 @@
       "name": "Álgebra lineal con python",
       "date": "2023-06-08",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-algebra-lineal.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-algebra-lineal.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/1725-algebra-lineal/diploma/detalle/",
       "technologiesLearned": [ "Python" ]
     },
@@ -325,8 +325,8 @@
       "name": "Curso de Matemáticas para Data Science: Estadística Descriptiva",
       "date": "2023-06-10",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-estadistica-descriptiva.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-estadistica-descriptiva.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2353-estadistica-descriptiva/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -334,8 +334,8 @@
       "name": "Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial",
       "date": "2023-04-03",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-etica-ia.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-etica-ia.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/3156-etica-ia/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -343,8 +343,8 @@
       "name": "Curso de Frontend Developer",
       "date": "2024-05-03",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-frontend-developer.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-frontend-developer.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2467-frontend-developer/diploma/detalle/",
       "technologiesLearned": ["Html5", "Css", "Javascript"]
     },
@@ -352,8 +352,8 @@
       "name": "Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial",
       "date": "2023-05-16",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-funciones-matematicas.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-funciones-matematicas.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2701-funciones-matematicas/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -361,8 +361,8 @@
       "name": "Curso de Fundamentos de IA para Data y Machine Learning",
       "date": "2023-03-31",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-ia-data-ml.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-ia-data-ml.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/6935-ia-data-ml/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -370,8 +370,8 @@
       "name": "Curso de Illustrator para Diseño Gráfico",
       "date": "2024-05-02",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-illustrator.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-illustrator.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/7461-illustrator/diploma/detalle/",
       "technologiesLearned": ["Illustrator"]
     },
@@ -379,8 +379,8 @@
       "name": "Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda",
       "date": "2023-04-27",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-jupyter-notebook.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-jupyter-notebook.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2434-jupyter-notebook/diploma/detalle/",
       "technologiesLearned": []
     },
@@ -388,8 +388,8 @@
       "name": " Curso de Visualización de Datos con Matplotlib y Seaborn",
       "date": "2023-05-15",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-matplotlib-seaborn.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-matplotlib-seaborn.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2913-matplotlib-seaborn/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -397,8 +397,8 @@
       "name": "Curso de Análisis de Negocios para Ciencia de Datos",
       "date": "2023-03-31",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-negocios-data-science.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-negocios-data-science.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2069-negocios-data-science/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -406,8 +406,8 @@
       "name": "Curso de Manipulación y Transformación de Datos con Pandas y NumPy",
       "date": "2023-05-05",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-pandas-numpy.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-pandas-numpy.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2912-pandas-numpy/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -415,8 +415,8 @@
       "name": "Curso de Programación Básica",
       "date": "2022-08-12",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-programacion-basica.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-programacion-basica.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/3208-programacion-basica/diploma/detalle/",
       "technologiesLearned": ["Css", "Html5", "Javascript"]
     },
@@ -424,8 +424,8 @@
       "name": "Curso Básico de Photoshop",
       "date": "2024-05-03",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-photoshop-basico.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-photoshop-basico.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/1230-photoshop-basico/diploma/detalle/",
       "technologiesLearned": ["Photoshop"]
     },
@@ -433,8 +433,8 @@
       "name": "Curso de Fundamentos de Python",
       "date": "2023-04-13",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-python.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-python.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/4227-python/diploma/detalle/",
       "technologiesLearned": ["Python"]
     },
@@ -442,8 +442,8 @@
       "name": "Curso de Introducción a la Terminal y Línea de Comandos",
       "date": "2023-04-25",
       "certifyingCompany": "Platzi",
-      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/platzi.svg",
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/certifications/diploma-terminal.jpg",
+      "companyLogo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/platzi.svg",
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/certifications/diploma-terminal.jpg",
       "url": "https://platzi.com/p/danieljorjuela/curso/2292-terminal/diploma/detalle/",
       "technologiesLearned": ["Ubuntu"]
     }
@@ -456,14 +456,14 @@
       "description": "Videojuego inspirado en batalla naval, desarrollado en python, donde se añadio nuevos tipos de ataques, eventos aleatorios y un sistema de estamina y vida para diversificar las estrategias durante las batallas.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",     
           "alt": "Python"       
         }
       ],
       "repository": [
         {
-          "url": "https://github.com/DanielJoaco/andimons",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/github_dark.svg",
+          "url": "https://github.com/DanielJoaco/The_seven_seas_showdown",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/github_dark.svg",
           "alt": "Github"
         }
       ] 
@@ -471,26 +471,26 @@
     {
       "name": "Andimons",        
       "preview": "https://danieljoaco.github.io/andimons/",     
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/andimons.jpg",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/sideProyects/andimons.jpg",         
       "description": "Videojuego desarrollado como app web desde cero. Incluye lógica moderada para calcular el daño de cada personaje basado en sus fortalezas, debilidades y tipos de ataques.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/css.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/css.svg",     
           "alt": "Css"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/html5.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/html5.svg",     
           "alt": "Html5"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/javascript.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/javascript.svg",     
           "alt": "Javascript"       
         }
       ],
       "repository": [
         {
           "url": "https://github.com/DanielJoaco/andimons",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/github_dark.svg",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/github_dark.svg",
           "alt": "Github"
         }
       ] 
@@ -498,18 +498,18 @@
     {
       "name": "Análisis a la PlayStore",        
       "preview": "https://deepnote.com/workspace/deepmoncast-0bf0-cb95ff43-a937-4652-b2cc-b1691388abfc/project/Playstore-8d9ab34c-a4e9-4398-a84b-1d88bb15552e/notebook/An%C3%A1lisis%20de%20datos-79362663b5d7479fa4fbec96d1efab0b",     
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/superstore.jpg",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/sideProyects/superstore.jpg",         
       "description": "Análisis a un conjunto de datos de la Play Store de 2018, donde se realizó limpieza y corrección con Pandas. El análisis y visualización de datos se llevó a cabo con Matplotlib y Seaborn.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",     
           "alt": "Python"       
         }
       ],
       "repository": [
         {
           "url": "https://deepnote.com/workspace/deepmoncast-0bf0-cb95ff43-a937-4652-b2cc-b1691388abfc/project/Playstore-8d9ab34c-a4e9-4398-a84b-1d88bb15552e/notebook/An%C3%A1lisis%20de%20datos-79362663b5d7479fa4fbec96d1efab0b",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/deepnote_dark.svg",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/deepnote_dark.svg",
           "alt": "Deepnote"
         }
       ] 
@@ -517,22 +517,22 @@
     {
       "name": "Red Neuronal",        
       "preview": "https://deepnote.com/workspace/deepmoncast-0bf0-cb95ff43-a937-4652-b2cc-b1691388abfc/project/Celsius-a-Fahrenheit-92e5dfb0-3436-40d3-8f31-6256a3a9a3d6/notebook/Celsius%20a%20fahrenheit-8f42de3680c84f559b09a  622b95165a6",     
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/redNeuronal.jpg",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/sideProyects/redNeuronal.jpg",         
       "description": "Creación y entrenamiento de una red neuronal de 3 capas con Keras, de tipo densa, usando TensorFlow y NumPy para transformar grados Celsius a Fahrenheit.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",     
           "alt": "Python"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/tensorflow.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/tensorflow.svg",     
           "alt": "TensorFlow"       
         }
       ],
       "repository": [
         {
           "url": "https://deepnote.com/workspace/deepmoncast-0bf0-cb95ff43-a937-4652-b2cc-b1691388abfc/project/Celsius-a-Fahrenheit-92e5dfb0-3436-40d3-8f31-6256a3a9a3d6/notebook/Celsius%20a%20fahrenheit-8f42de3680c84f559b09a622b95165a6",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/deepnote_dark.svg",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/deepnote_dark.svg",
           "alt": "Deepnote"
         }
       ]     
@@ -540,18 +540,18 @@
     {
       "name": "Sistema con Python",        
       "preview": "https://replit.com/@DanielOrjuela2/Operaciones-de-algebra-lineal?v=1#main.py",     
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/pythonSystem.jpg",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/sideProyects/pythonSystem.jpg",         
       "description": "Algoritmo creado con Python usando librerías como Matplotlib, NumPy y SymPy para visualización y estudio de diversas funciones de álgebra lineal, usando módulos para facilitar la lectura y mantenimiento del código.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",     
           "alt": "Python"       
         }
       ],
       "repository": [
         {
           "url": "https://replit.com/@DanielOrjuela2/Operaciones-de-algebra-lineal?v=1#main.py",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/replit_dark.svg",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/replit_dark.svg",
           "alt": "Replit"
         }
       ]     
@@ -559,30 +559,30 @@
     {
       "name": "Podscast",        
       "preview": "https://shows.acast.com/daimoncast",     
-      "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/sideProyects/daimoncast.jpg",         
+      "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/sideProyects/daimoncast.jpg",         
       "description": "Podcast sobre desarrollo personal, donde se utilizó toda la suite de Adobe Creative Cloud y Canva para edición multimedia, y herramientas como ChatGPT, DALL·E y MidJourney para creación de recursos.", 
       "technologies": [  
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/audition.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/audition.svg",     
           "alt": "Audition"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/canva.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/canva.svg",     
           "alt": "Canva"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/photoshop.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/photoshop.svg",     
           "alt": "Photoshop"       
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/premiere.svg",     
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/premiere.svg",     
           "alt": "Premiere Pro"       
         }
       ],
       "repository": [
         {
           "url": "https://shows.acast.com/daimoncast",
-          "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/acast.svg",
+          "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/a3c0fd5b8b412501f9a53b7551992ed066254664/public/assets/logos/acast.svg",
           "alt": "Acast"
         }   
       ]
@@ -593,7 +593,7 @@
       "position": "Frontend developer trainee",
       "enterprise": {
         "name": "Independiente",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/1e9a63d7dee466ee8b2ee246d55370ded2cb920b/public/assets/favicon.svg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/favicon.svg",
         "dateStart": "2022-08-01",
         "dateFinish": "Actualmente",
         "media": "#sideProjects"
@@ -601,15 +601,15 @@
       "description": "Desarrollo proyectos personales utilizando tecnologías como React, Node.js, CSS, HTML y JavaScript. Realizando desde la creación de contenido, el diseño y la generación de recursos, hasta la escritura del código y el despliegue en plataformas como GitHub Pages.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/8aef9a94c52416a922a176664e855d5040519976/src/assets/logos/react.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/react.svg",
           "alt": "React"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/2ac67dd137c3606760157c86759f21af5b5c478b/src/assets/logos/nodejs.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2ac67dd137c3606760157c86759f21af5b5c478b/src/assets/logos/nodejs.svg",
           "alt": "Node.js"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/javascript.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/javascript.svg",
           "alt": "Javascript"
         }
       ]
@@ -618,7 +618,7 @@
       "position": "Data scientist trainee",
       "enterprise": {
         "name": "Independiente",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/1e9a63d7dee466ee8b2ee246d55370ded2cb920b/public/assets/favicon.svg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/favicon.svg",
         "dateStart": "2023-03-31",
         "dateFinish": "Actualmente",
         "media": "#sideProjects"
@@ -626,7 +626,7 @@
       "description": "Analisis de datos  y creacion de algoritmos para para la implementacion de sistemas con python, usando librerias como numpy, pandas, matplotlib, seaborn y tensorflow",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",
           "alt": "Python"
         }
       ]
@@ -635,7 +635,7 @@
       "position": "CFO y CMO",
       "enterprise": {
         "name": "Yane Beauty Store",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/8aef9a94c52416a922a176664e855d5040519976/src/assets/logos/ybs.svg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/ybs.svg",
         "dateStart": "2023-07-31",
         "dateFinish": "Actualmente",
         "media": "https://www.instagram.com/yane_beautystore/"
@@ -643,27 +643,27 @@
       "description": "Gestión administrativa y financiera creando sistemas con Visual Basic y Google Sheets, gestión de proveedores, análisis del mercado y análisis de datos con Python. Creación y edición de contenido multimedia utilizando la suite de Adobe Creative Cloud, OBS y Canva.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/python.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",
           "alt": "Python"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/photoshop.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/photoshop.svg",
           "alt": "Photoshop"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/premiere.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/premiere.svg",
           "alt": "Premiere Pro"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/illustrator.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/illustrator.svg",
           "alt": "Illustrator"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/canva.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/canva.svg",
           "alt": "Canva"
         }
       ]
@@ -672,7 +672,7 @@
       "position": "Podcaster",
       "enterprise": {
         "name": "Daimoncast",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/daimoncast.webp",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/daimoncast.webp",
         "dateStart": "2023-02-05",
         "dateFinish": "2023-03-26",
         "media": "https://linktr.ee/daimonpodcast"
@@ -680,27 +680,27 @@
     "description": "Producción y postproducción de podcasts, creación de contenido, edición multimedia usando la suite de Adobe Creative Cloud, y publicación en distintos formatos y plataformas de audio y video.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/audition.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/audition.svg",
           "alt": "Audition"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/photoshop.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/photoshop.svg",
           "alt": "Photoshop"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/premiere.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/premiere.svg",
           "alt": "Premiere Pro"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/illustrator.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/illustrator.svg",
           "alt": "Illustrator"
         },
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/logos/canva.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/canva.svg",
           "alt": "Canva"
         }
       ]
@@ -709,7 +709,7 @@
       "position": "Jefe de producción",
       "enterprise": {
         "name": "Panaderia saludable Senda",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/senda.jpg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/senda.jpg",
         "dateStart": "2023-08-08",
         "dateFinish": "2024-04-15",
         "media": "https://www.instagram.com/dmaa.bga/"
@@ -717,7 +717,7 @@
       "description": "Estandarización de procesos, creación de formatos y sistemas de trabajo, administración de recursos, gestión de talento humano y fabricación de productos de panadería, pastelería y arepas saludables.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         }
       ]
@@ -726,7 +726,7 @@
       "position": "Cocinero Chef",
       "enterprise": {
         "name": "Restaurante Pal Caminito",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/palcaminito.jpg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/palcaminito.jpg",
         "dateStart": "2022-08-10",
         "dateFinish": "2023-08-07",
         "media": "https://www.instagram.com/palcaminito/"
@@ -734,7 +734,7 @@
       "description": "Cocinero multidisciplinar abarcando todas las áreas operativas y productivas de la empresa, como líder de línea, pizzero, parrillero y sartenero. Apoyo a las labores del chef en la gestión y administración de la cocina, así como en la organización de eventos.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         }
       ]
@@ -743,7 +743,7 @@
       "position": "Chef",
       "enterprise": {
         "name": "Restaurante Orale Tex-Mex",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/orale.jpg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/orale.jpg",
         "dateStart": "2021-10-08",
         "dateFinish": "2022-08-01",
         "media": "https://www.instagram.com/oralerestaurantebca/?hl=es"
@@ -751,7 +751,7 @@
       "description": "Gestion administrativa y operativa de la cocina del restaurante, estandarizando procesos, optimizando sistemas de trabajo, administrando recursos y creando formatos como recetarios e inventarios.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         }
       ]
@@ -760,7 +760,7 @@
       "position": "Souf chef",
       "enterprise": {
         "name": "Restaurante Puerto Macondo",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/puertomacondo.jpg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/puertomacondo.jpg",
         "dateStart": "2018-07-01",
         "dateFinish": "2021-07-28",
         "media": "https://www.instagram.com/puertomacondo/"
@@ -768,7 +768,7 @@
       "description": "Gestión del área productiva y operativa de la cocina, incluyendo requisiciones, creación y administración de formatos, implementación de sistemas POS, y apoyo a las tareas creativas y gerenciales del chef.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         }
       ]
@@ -777,7 +777,7 @@
       "position": "Barista y jefe de cocina",
       "enterprise": {
         "name": "Gastrobar Estrellita",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portafolio/main/src/assets/logos/estrellita.jpg",
+        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/main/src/assets/logos/estrellita.jpg",
         "dateStart": "2019-08-01",
         "dateFinish": "2021-02-01",
         "media": "https://www.instagram.com/estrellitasolyluna_cajica/"
@@ -785,7 +785,7 @@
     "description": "Preparación de más de 40 productos estandarizados entre repostería, barismo, coctelería y cocina ensamblable. Producción de materias primas, creación de formatos y gestión de inventarios de insumos.",
       "technologies": [
         {
-          "img": "https://raw.githubusercontent.com/DanielJoaco/portafolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/fa7112c5b7ab2065e9dcface916f37db9094544b/src/assets/logos/drive.svg",
           "alt": "Drive"
         }
       ]

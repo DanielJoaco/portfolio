@@ -36,7 +36,7 @@ const WorkExperience = ({ experience }) => {
               style={{ padding: '0', marginBottom: '1rem', fontStyle: 'italic', fontSize: '1.4rem' }}
             >
               <img
-                src="https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/calendar_dark.svg"
+                src="https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/calendar_dark.svg"
                 alt="Calendar"
                 style={{ margin: '0 1rem 0 0' }}
               />
@@ -76,7 +76,7 @@ const WorkExperience = ({ experience }) => {
               <span>Ver más</span>
               <img
                 className="logo"
-                src="https://raw.githubusercontent.com/DanielJoaco/portafolio/833cfe02aa275998603d9f0efe466d1b26cd48fd/public/assets/externalLink_dark.svg"
+                src="https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/externalLink_dark.svg"
                 alt="Flecha"
               />
             </a>
