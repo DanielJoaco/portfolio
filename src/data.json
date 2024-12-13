@@ -590,7 +590,7 @@
   ],
   "experience": [
     {
-      "position": "Frontend developer trainee",
+      "position": "Frontend developer and data scientist trainee",
       "enterprise": {
         "name": "Independiente",
         "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/favicon.svg",
@@ -598,11 +598,15 @@
         "dateFinish": "Actualmente",
         "media": "#sideProjects"
       },
-      "description": "Desarrollo proyectos personales utilizando tecnologías como React, Node.js, CSS, HTML y JavaScript. Realizando desde la creación de contenido, el diseño y la generación de recursos, hasta la escritura del código y el despliegue en plataformas como GitHub Pages.",
+      "description": "Desarrollo proyectos personales con React, Node.js, CSS, JavaScript y Python, creando desde cero aplicaciones web desplegadas en GitHub Pages. Además, realizo análisis de datos y desarrollo algoritmos en Python para implementar sistemas y soluciones personalizadas.",
       "technologies": [
         {
           "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/react.svg",
           "alt": "React"
+        },
+        {
+          "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/css.svg",
+          "alt": "Css"
         },
         {
           "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2ac67dd137c3606760157c86759f21af5b5c478b/src/assets/logos/nodejs.svg",
@@ -611,20 +615,7 @@
         {
           "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/javascript.svg",
           "alt": "Javascript"
-        }
-      ]
-    },
-    {
-      "position": "Data scientist trainee",
-      "enterprise": {
-        "name": "Independiente",
-        "logo": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/favicon.svg",
-        "dateStart": "2023-03-31",
-        "dateFinish": "Actualmente",
-        "media": "#sideProjects"
-      },
-      "description": "Analisis de datos  y creacion de algoritmos para para la implementacion de sistemas con python, usando librerias como numpy, pandas, matplotlib, seaborn y tensorflow",
-      "technologies": [
+        },
         {
           "img": "https://raw.githubusercontent.com/DanielJoaco/portfolio/2bd651ce1ef8a29ad09c2dd8919626b87040ee16/src/assets/logos/python.svg",
           "alt": "Python"
